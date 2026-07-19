@@ -43,6 +43,23 @@ const priyanka = {
 
 ---
 
+### 📊 Profile Summary
+
+<p align="center">
+  <img width="380" src="https://raw.githubusercontent.com/priya211205/priya211205/profile-summary-cards-output/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+</p>
+<p align="center">
+  <img width="380" src="https://raw.githubusercontent.com/priya211205/priya211205/profile-summary-cards-output/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+  <img width="380" src="https://raw.githubusercontent.com/priya211205/priya211205/profile-summary-cards-output/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+</p>
+<p align="center">
+  <img width="380" src="https://raw.githubusercontent.com/priya211205/priya211205/profile-summary-cards-output/profile-summary-card-output/tokyonight/3-stats.svg"/>
+</p>
+
+> ⚠️ These cards only appear after you add the GitHub Action workflow (see setup instructions below). Until then this section will look empty/broken — that's expected.
+
+---
+
 ### 💼 Featured Projects
 
 - 🔄 **PDF to Word Converter** — Independent tool that converts PDF documents into editable Word format.
@@ -52,7 +69,7 @@ const priyanka = {
 - 🔐 **Intelligent Consent Safe Sharing** — Privacy-first data-sharing system with encryption & consent-based access.
 - 🗳️ **Smart Voting System** — Secure digital voting platform with authentication and real-time tracking.
 
-> Replace the project names above with links once you add them, e.g. `**[PDF to Word Converter](https://github.com/yourusername/repo-name)**`
+> Replace the project names above with links once you add them, e.g. `**[PDF to Word Converter](https://github.com/priya211205/repo-name)**`
 
 ---
 
@@ -64,15 +81,15 @@ const priyanka = {
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priya211205&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priya211205&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya211205&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
